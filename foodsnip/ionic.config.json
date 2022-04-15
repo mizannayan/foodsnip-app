@@ -1,0 +1,7 @@
+{
+  "name": "foodsnip",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
